@@ -1,1 +1,1 @@
-start "C:\Users\jojoyoung\AppData\Local\Google\Chrome\Application\chrome.exe" "http://www.baidu.com"
+start "C:\Users\jojoyoung\AppData\Local\Google\Chrome\Application\chrome.exe" "http://www.bing.com"
